@@ -1,5 +1,5 @@
 # MixedRPM
-MATLAB implementation of Bayesian predictive clustering for data of mixed discrete and continuous type. For a usage example, run demo.m.
+MATLAB implementation of Bayesian predictive clustering of data of mixed discrete and continuous type. For a usage example, run demo.m.
 
 
 **Reference**:
